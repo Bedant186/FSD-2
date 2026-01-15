@@ -1,16 +1,51 @@
-# React + Vite
+# SPA Experiment – React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Objective
+To design and develop a basic Single Page Application (SPA) using a modern frontend framework and understand client-side rendering.
 
-Currently, two official plugins are available:
+## Description
+This project is a basic Single Page Application developed using **React** and **Vite**.
+The application consists of multiple pages such as Home, About, Contact, and SPA, which are rendered dynamically without reloading the browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project demonstrates component-based architecture and smooth navigation in SPAs.
+It is successfully deployed on **Netlify**.
 
-## React Compiler
+## Technologies Used
+- React.js
+- Vite
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Netlify (Deployment)
+- GitHub (Version Control)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Structure
+- `Home.jsx` – Home page component
+- `About.jsx` – About page component
+- `Contact.jsx` – Contact page component
+- `Spa.jsx` – SPA content component
+- `main.jsx` – Application entry point
 
-## Expanding the ESLint configuration
+## Features
+- Single Page Application architecture
+- Component-based UI
+- Fast rendering using Vite
+- Navigation without page reload
+- Responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Deployment
+The project is deployed on Netlify.  
+🔗 **Live URL:** *(paste your Netlify link here)*
+
+## Learning Outcomes of Experiment
+After completing this experiment, I learned:
+- The concept and working of Single Page Applications (SPA)
+- How React components are created and reused
+- Client-side rendering and navigation
+- Project setup using Vite
+- Folder structure of a React SPA
+- Deployment of frontend applications using Netlify
+- Using GitHub for version control and documentation
+
+## Conclusion
+This experiment helped in understanding modern frontend development using React and the advantages of Single Page Applications over traditional multi-page websites.
