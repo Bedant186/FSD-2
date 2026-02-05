@@ -10,7 +10,6 @@ function App() {
   style={{
     display: "flex",
     justifyContent: "center",
-    height: "100vh",
   }}
 >
   <Link to="/">Home</Link> |{" "}
