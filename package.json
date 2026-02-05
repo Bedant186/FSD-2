@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "experiment-6",
+=======
+<<<<<<< HEAD
+  "name": "experiment-5",
+=======
+  "name": "experiment-1",
+>>>>>>> 82db995cd59ae746dff32a37ea1450f6c74581d2
+>>>>>>> d197e22919788fdd14577b471263771d682779cc
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +18,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/material": "^7.3.7",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
+=======
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+<<<<<<< HEAD
+    "react-router-dom": "^7.13.0"
+=======
+    "react-router-dom": "^7.12.0"
+>>>>>>> 82db995cd59ae746dff32a37ea1450f6c74581d2
+>>>>>>> d197e22919788fdd14577b471263771d682779cc
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
