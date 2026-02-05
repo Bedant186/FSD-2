@@ -6,13 +6,14 @@ import Contact from "./components/contact";
 function App() {
   return (
     <BrowserRouter>
-      <h1>Experiment 3</h1>
+      <h1 style={{ textAlign: "center" }}>Experiment 3</h1>
 
-      <nav>
-        <Link to="/">Home</Link> |{" "}
-        <Link to="/about">About</Link> |{" "}
-        <Link to="/contact">Contact</Link>
-      </nav>
+<nav style={{ textAlign: "center" }}>
+  <Link to="/">Home</Link> |{" "}
+  <Link to="/about">About</Link> |{" "}
+  <Link to="/contact">Contact</Link>
+</nav>
+
 
       <Routes>
         <Route path="/" element={<Home />} />
